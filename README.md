@@ -54,6 +54,6 @@ See [requirements.txt](./requirements.txt) for dependencies.
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Integrate with Data Warehouse (Snowflake/BigQuery/Redshift)
