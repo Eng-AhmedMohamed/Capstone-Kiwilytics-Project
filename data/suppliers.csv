@@ -1,0 +1,30 @@
+"supplierid","suppliername","contactname","address","city","postalcode","country","phone"
+1,exotic liquid,charlotte cooper,"49 gilbert st.",londona,ec1 4sd,uk,(171) 555-2222
+2,new orleans cajun delights,shelley burke,p.o. box 78934,new orleans,"70117",usa,(100) 555-4822
+3,grandma kelly's homestead,regina murphy,"707 oxford rd.",ann arbor,"48104",usa,(313) 555-5735
+4,tokyo traders,yoshi nagase,"9-8 sekimai musashino-shi",tokyo,"100",japan,(03) 3555-5011
+5,cooperativa de quesos 'las cabras',antonio del valle saavedra,calle del rosal 4,oviedo,"33007",spain,(98) 598 76 54
+6,mayumi's,mayumi ohno,"92 setsuko chuo-ku",osaka,"545",japan,(06) 431-7877
+7,"pavlova, ltd.",ian devling,"74 rose st. moonie ponds",melbourne,"3058",australia,(03) 444-2343
+8,"specialty biscuits, ltd.",peter wilson,"29 king's way",manchester,m14 gsd,uk,(161) 555-4448
+9,pb knäckebröd ab,lars peterson,kaloadagatan 13,göteborg,s-345 67,sweden,"031-987 65 43"
+10,refrescos americanas ltda,carlos diaz,av. das americanas 12.890,são paulo,"5442",brazil,(11) 555 4640
+11,heli süßwaren gmbh & co. kg,petra winkler,tiergartenstraße 5,berlin,"10785",germany,(010) 9984510
+12,plutzer lebensmittelgroßmärkte ag,martin bein,bogenallee 51,frankfurt,"60439",germany,(069) 992755
+13,nord-ost-fisch handelsgesellschaft mbh,sven petersen,frahmredder 112a,cuxhaven,"27478",germany,(04721) 8713
+14,formaggi fortini s.r.l.,elio rossi,"viale dante, 75",ravenna,"48100",italy,(0544) 60323
+15,norske meierier,beate vileid,hatlevegen 5,sandvika,"1320",norway,(0)2-953010
+16,bigfoot breweries,cheryl saylor,"3400 - 8th avenue suite 210",bend,"97101",usa,(503) 555-9931
+17,svensk sjöföda ab,michael björn,brovallavägen 231,stockholm,s-123 45,sweden,"08-123 45 67"
+18,aux joyeux ecclésiastiques,guylène nodier,"203, rue des francs-bourgeois",paris,"75004",france,(1) 03.83.00.68
+19,new england seafood cannery,robb merchant,order processing dept. 2100 paul revere blvd.,boston,"02134",usa,(617) 555-3267
+20,leka trading,chandra leka,"471 serangoon loop, suite #402",singapore,"0512",singapore,"555-8787"
+21,lyngbysild,niels petersen,lyngbysild fiskebakken 10,lyngby,"2800",denmark,"43844108"
+22,zaanse snoepfabriek,dirk luchte,verkoop rijnweg 22,zaandam,"9999 zz",netherlands,(12345) 1212
+23,karkki oy,anne heikkonen,valtakatu 12,lappeenranta,"53120",finland,(953) 10956
+24,"g'day, mate",wendy mackenzie,"170 prince edward parade hunter's hill",sydney,"2042",australia,(02) 555-5914
+25,ma maison,jean-guy lauzon,"2960 rue st. laurent",montréal,h1j 1c3,canada,(514) 555-9022
+26,pasta buttini s.r.l.,giovanni giudici,"via dei gelsomini, 153",salerno,"84100",italy,(089) 6547665
+27,escargots nouveaux,marie delamare,"22, rue h. voiron",montceau,"71300",france,"85.57.00.07"
+28,gai pâturage,eliane noz,"bat. b 3, rue des alpes",annecy,"74000",france,"38.76.98.06"
+29,forêts d'érables,chantal goulet,"148 rue chasseur",ste-hyacinthe,j2s 7s8,canada,(514) 555-2955
